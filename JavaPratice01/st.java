@@ -20,5 +20,9 @@ private int x, y;
 			
 		}
 		
-
+		public int getY()
+		{
+			return y;
+			
+		}
 }
