@@ -1,0 +1,44 @@
+#pragma comment(linker, "/subsystem:windows")
+
+#include <Windows.h>
+#include <tchar.h>
+#include "resource.h"
+
+BOOL OnInitDialog(HWND hDlg, WPARAM wParam, LPARAM lParam)
+{
+	return TRUE;
+}
+
+void OnExit(HWND hDlg, WPARAM wParam, LPARAM lParam)
+{
+	EndDialog(hDlg, IDCANCEL);
+}
+
+BOOL OnCommand(HWND hDlg, WPARAM wParam, LPARAM lParam)
+{
+	switch (LOWORD(wParam))
+	{
+	case IDCANCEL: OnExit(hDlg, wParam, lParam); return FALSE;
+	}
+	return TRUE;
+}
+
+BOOL CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, 
+	LPARAM lParam)
+{
+	switch (msg)
+	{
+	case WM_INITDIALOG: return OnInitDialog(hDlg, wParam, lParam);
+	case WM_COMMAND:	return OnCommand(hDlg, wParam, lParam);
+	}
+	return FALSE;
+}
+
+int WINAPI _tWinMain(HINSTANCE hInst, HINSTANCE, LPTSTR lpCmd,
+	int nShowCmd)
+{
+	DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG2),
+		0, DlgProc);
+
+	return 0;
+}
