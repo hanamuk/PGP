@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyPicture.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MyPicture">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FileName" Type="varchar" MaxLength="50" />
+    <Property Name="Data" Type="image" />
+    <Property Name="status" Type="varchar(max)" />
+    <Property Name="X" Type="float" />
+    <Property Name="Y" Type="float" />
+    <Property Name="UUID" Type="varchar(max)" />
+    <Property Name="PHONE" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="MyPictureStoreContainer">
+    <EntitySet Name="MyPicture" EntityType="Self.MyPicture" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

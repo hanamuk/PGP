@@ -1,0 +1,88 @@
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe.config
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.pdb
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Form1.resources
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Properties.Resources.resources
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CopyComplete
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.exe
+C:\Users\pc\Desktop\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.pdb
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe.config
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.pdb
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.dll
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.xml
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csprojAssemblyReference.cache
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Form1.resources
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Properties.Resources.resources
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.GenerateResource.cache
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CopyComplete
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.exe
+C:\Users\H\Desktop\비트프로젝트\서버클라\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.pdb
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe.config
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.pdb
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\MetroFramework.Design.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\MetroFramework.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.xml
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Form1.resources
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Properties.Resources.resources
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.GenerateResource.cache
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CopyComplete
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.exe
+C:\Users\ksg12\OneDrive\Desktop\순건\비트 고급\프로젝트\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.pdb
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csprojAssemblyReference.cache
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Form1.resources
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Properties.Resources.resources
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.GenerateResource.cache
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.exe
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.pdb
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe.config
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.pdb
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\MetroFramework.Design.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\MetroFramework.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.xml
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\H\Desktop\비트프로젝트\우리팀꺼\SaveImageToDatabase 위도경도 표시\SaveImageToDatabase\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CopyComplete
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe.config
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.exe
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\SaveImageToDatabase.pdb
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\EntityFramework.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\MetroFramework.Design.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\MetroFramework.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\EntityFramework.xml
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csprojAssemblyReference.cache
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Form1.resources
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.Properties.Resources.resources
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.GenerateResource.cache
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.csproj.CopyComplete
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.exe
+C:\Users\H\Desktop\mask_manage\SaveImageToDatabase\obj\Debug\SaveImageToDatabase.pdb
