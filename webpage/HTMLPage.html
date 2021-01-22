@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>자기것으로 만들것</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+    <script src="prefixfree.min.js"></script>
+    
+<script>
+    $(document).ready(function () {
+        // 네비게이션 버튼
+        $('#main_navigation a').click(function () {
+            // 변수를 선언합니다.
+            var target = $(this).attr('data-target');
+
+            // 클래스를 적용합니다.
+            $(':not([data-name=' + target + '])').removeClass('active');
+            $('[data-name=' + target + ']').addClass('active');
+        });
+		
+		var myVideo = $('video').get(0);
+			$('#multimedia').on('mouseenter',function(){
+				$(this).find('#play').show();
+			});
+			$('#multimedia').on('mouseleave',function(){
+				$(this).find('#play').hide();
+			});
+			$('#play').on('click',function(){
+				if($('#play').text() == 'play'){
+					myVideo.play();
+					$(this).text('pause');
+				}else{
+					myVideo.pause();	
+					$(this).text('play');
+				}
+				$(this).hide();
+			});
+
+        // 좌우 버튼, 3개의 컨텐츠를 계속 순환시킬경우..
+        var currentPosition = 1;
+        $('#character > a:nth-child(1)').click(function () {
+			//현재값에 1을 빼라, 값이 1보다 작아지면 3으로 가서 시작하라
+            currentPosition -= 1;
+            if (currentPosition < 1) {
+                currentPosition = 3;
+            }
+            $('article').removeClass('show');
+            $('article:nth-of-type(' + currentPosition + ')').addClass('show');
+        });
+        $('#character > a:nth-child(2)').click(function () {
+			//현재값에서 1을 더하라, 3보다 커지면 1이되어서 계속 순환되라
+            currentPosition += 1;
+            if (currentPosition > 3) {
+                currentPosition = 1;
+            }
+            $('article').removeClass('show');
+            $('article:nth-of-type(' + currentPosition + ')').addClass('show');
+        });
+		
+		
+    });
+</script>
+</head>
+<body>
+    <div id="body">
+    <div id="title">
+        <h1 data-name="information">Information</h1>
+        <h1 data-name="character">Character</h1>
+        <h1 data-name="multimedia">Multimedia</h1>
+    </div>
+    <section id="container">
+        <!-- 메인 페이지 -->
+        <div id="main" data-name="main" class="active">
+            <img src="Images/all.jpg" />
+        </div>
+        <!-- 정보 페이지 -->
+        <div id="information" data-name="information">
+            <img src="Images/son.png" />
+            <div class="description">
+                <p> 이름 : 손흥민<br><br>
+                    직업 : 축구선수<br><br>
+                    출생 : 1992년 7월 8일<br><br>
+                    신체 : 183cm, 77kg<br><br>
+                    현 소속팀 : 토트넘 홋스퍼 FC (FW 공격수, 7)<br><br>
+                    가족 : 아버지 손웅정, 형 손흥윤<br><br>
+                    데뷔 : 2010년 함부르크 SV 입단<br><br>
+                    주 포지션 : 윙어, 세컨트 스트라이커<br><br>
+
+                </p>
+            </div>
+        </div>
+
+
+        <!-- 캐릭터 페이지 -->
+        <div id="character" data-name="character">
+            <a href="#">Left Button</a>
+            <a href="#">Right Button</a>
+            <article class="show">
+                <h1>Hamburger Sport-Verein e. V.</h1>
+                
+                <img src="Images/ham.jpg" />
+                <p>
+                    10-11 함부르크 SV 13경기 3골<br><br>
+                    11-12 함부르크 SV 27경기 5골 1도움<br><br>
+                    12-13 함부르크 SV 33경기 12골 2도움<br><br>
+                    합계 : 73경기	19골  3도움	
+                </p>
+
+
+            </article>
+            <article>
+                <h1>Bayer 04 Leverkusen</h1>
+                
+                <img src="Images/lever.png" />
+               <p>
+                13-14 레버쿠젠 43경기 12골 7도움<br><br>
+                14-15 레버쿠젠 42경기 17골 2도움<br><br>
+                15-16 레버쿠젠 2경기   <br><br>
+                합계 : 87경기  29골  9도움
+                
+               </p>
+            </article>
+            <article>
+                <h1>Tottenham Hotspur</h1>
+                
+                <img src="Images/tott.png" />
+               <p>
+                15-16 토트넘 28기 4골 1도움 <br><br>
+                16-17 토트넘 34경기 14골 6도움<br><br>
+                17-18 토트넘 37경기 12골 6도움<br><br>
+                18-19 토트넘 31경기 12골 6도움<br><br>
+                19-20 토트넘 37경기 11골 10도움<br><br>
+                21 -  토트넘 14경기 11골 4도움<br><br>
+                합계 : 174경기  64골  33도움
+               </p>
+            </article>
+        </div>
+
+
+        <!-- 영상 페이지 muted를 넣어 소리제거상태로 서비스함-->
+        <div id="multimedia" data-name="multimedia">
+        	<a href="#" id="play">play</a>
+            <video width="940" height="480" controls muted preload>
+            	<source src="Images/video_Trim.mp4" type="video/mp4">
+            </video>
+        </div>
+        
+        <div id="download" data-name="download">
+            <a href="https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC" target="_blank">손흥민 정보</a>
+        </div>
+    </section>
+    <nav id="main_navigation">
+        <ul>
+            <li><a href="#" data-target="information">Info &nbsp; &nbsp;</a></li>
+            <li><a href="#" data-target="character">Season Score &nbsp; &nbsp;</a></li>
+            <li><a href="#" data-target="multimedia">Multimedia &nbsp; &nbsp;</a></li>
+            <li><a href="#" data-target="download">link &nbsp; &nbsp;</a></li>
+        </ul>
+    </nav>
+        </div>
+</body>
+</html>
