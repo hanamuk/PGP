@@ -1,0 +1,2 @@
+delete from MyPicture;
+DBCC CHECKIDENT(MyPicture, reseed, 0)
